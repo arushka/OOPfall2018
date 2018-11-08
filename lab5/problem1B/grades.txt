@@ -1,0 +1,9 @@
+Bicurman Sasa A
+Aliyev Ali E
+Ivanov Ivan A
+Bishekov Timur C
+Menshikov Sergey D
+
+Average - 71
+Maximum - 100
+Minimum - 22
